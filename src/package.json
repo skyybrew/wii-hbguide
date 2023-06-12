@@ -1,0 +1,19 @@
+{
+  "name": "wii-hbguide",
+  "version": "0.0.1",
+  "description": "A guide for Wii homebrew",
+  "main": "index.js",
+  "authors": {
+    "name": "javdu",
+    "email": "skyybrew@gmail.com"
+  },
+  "repository": "https://github.com/skyybrew/wii-hbguide/wii-hbguide",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}

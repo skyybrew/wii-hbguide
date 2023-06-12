@@ -1,0 +1,22 @@
+{
+  "name": "wii-hbguide",
+  "version": "0.0.1",
+  "description": "A guide for Wii Homebrew",
+  "main": "index.js",
+  "authors": {
+    "name": "javdu",
+    "email": "nonya"
+  },
+  "repository": "https://github.com/skyybrew/wii-hbguide/wii-hbguide",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  },
+  "dependencies": {
+    "vuepress-theme-default-prefers-color-scheme": "^2.0.0"
+  }
+}
